@@ -1,6 +1,6 @@
-package com.ildong.board.infra;
+package com.demo.board.infra;
 
-import com.ildong.board.Content;
+import com.demo.board.domain.Content;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ContentRepository extends JpaRepository<Content, Integer> {

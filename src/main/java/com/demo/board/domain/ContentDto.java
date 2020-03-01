@@ -1,8 +1,4 @@
-package com.ildong.board;
-
-import javax.persistence.Column;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
+package com.demo.board.domain;
 
 public class ContentDto {
     private Integer id;

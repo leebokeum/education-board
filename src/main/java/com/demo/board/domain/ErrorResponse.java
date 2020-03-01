@@ -1,4 +1,4 @@
-package com.ildong.board;
+package com.demo.board.domain;
 
 public class ErrorResponse {
     private String message;
